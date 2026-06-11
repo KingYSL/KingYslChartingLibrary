@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JOa1Vv+hVdQ=",
+  "dgSpecHash": "XblUev+xO68=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rhoza\\source\\repos\\ChartingLibrary1.4\\ChartingLibrary1.4\\ChartingLibrary1.4.csproj",
+  "projectFilePath": "C:\\Users\\rhoza\\Desktop\\ChartingLibrary\\ChartingLibrary1.4\\ChartingLibrary1.4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rhoza\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.142\\microsoft.xaml.behaviors.wpf.1.1.142.nupkg.sha512"
   ],

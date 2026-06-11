@@ -48,7 +48,7 @@ namespace ChartingLibrary1._4 {
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "9.0.15.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "10.0.8.0")]
         public void InitializeComponent() {
             if (_contentLoaded) {
                 return;
@@ -74,7 +74,7 @@ namespace ChartingLibrary1._4 {
         /// </summary>
         [System.STAThreadAttribute()]
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "9.0.15.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "10.0.8.0")]
         public static void Main() {
             ChartingLibrary1._4.App app = new ChartingLibrary1._4.App();
             app.InitializeComponent();
