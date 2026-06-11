@@ -1,0 +1,12 @@
+﻿<Application x:Class="ChartingLibrary1._4.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ChartingLibrary1._4"
+             xmlns:local1="clr-namespace:ChartingLibrary1._4.Utilities"
+
+             StartupUri="MainWindow.xaml"
+             >
+    <Application.Resources>
+        <local1:BoolVisibilityConverter x:Key="BoolToVisibilityConverter"/>
+    </Application.Resources>
+</Application>
