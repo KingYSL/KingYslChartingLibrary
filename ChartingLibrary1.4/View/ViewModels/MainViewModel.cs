@@ -26,7 +26,6 @@ namespace ChartingLibrary1._4.View.ViewModels
 
             PlotControl.SetPanelsVisibility(true, true, true, true);
             PlotControl.SetAxes();
-            RunAllTestsAsync();
          
         }
 
